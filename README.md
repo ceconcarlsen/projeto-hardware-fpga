@@ -1,2 +1,2 @@
-# projeto-hardware-fpga
-Projetos de Hardware para FPGAs - Ciência da Computação - UNESP
+# projeto-fpga
+FPGA - Ciência da Computação - UNESP
