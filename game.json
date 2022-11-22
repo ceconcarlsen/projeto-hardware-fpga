@@ -87,15 +87,15 @@
   "variables": [],
   "layouts": [
     {
-      "b": 150,
+      "b": 191,
       "disableInputWhenNotFocused": true,
       "mangledName": "Cena_32sem_32t_237tulo",
       "name": "Cena sem título",
-      "r": 236,
+      "r": 194,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 211,
+      "v": 193,
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
