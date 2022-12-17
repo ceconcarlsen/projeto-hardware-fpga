@@ -18,7 +18,7 @@
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "Skinny Horses",
+    "name": "As Aventuras de Geraldão nas Portas Lógicas",
     "description": "",
     "author": "",
     "windowWidth": 825,
@@ -971,6 +971,213 @@
         "name": "circuito_sala_03.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tapete2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tapete2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "armario.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "armario.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "janela3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "janela3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ar.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mesa_almofadas.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mesa_almofadas.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "estante.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "estante.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tapete3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tapete3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "janela4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "janela4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mesa_metal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mesa_metal.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "televisao.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "televisao.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tapete4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tapete4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ar2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "circuito_sala_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "circuito_sala_04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "escrivaninha2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "escrivaninha2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tapete5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tapete5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tapete6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tapete6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "planta.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "planta.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ideia_piso2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ideia_piso2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "circuito_sala_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "circuito_sala_05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tapete7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tapete7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mesa_metal2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mesa_metal2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "janela5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "janela5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "tapete8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tapete8.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -999,7 +1206,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7171235060572604,
+        "zoomFactor": 0.7671235060572575,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1028,8 +1235,8 @@
           "name": "Charge",
           "persistentUuid": "900eb7ad-8b52-456a-b54c-f192e0c937b8",
           "width": 32,
-          "x": 379,
-          "y": 166,
+          "x": 381,
+          "y": 164,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1088,7 +1295,7 @@
           "name": "Ground",
           "persistentUuid": "64fd528f-6531-406c-8bfb-b4acfac5607a",
           "width": 992,
-          "x": -93,
+          "x": -95,
           "y": -2,
           "zOrder": 0,
           "numberProperties": [],
@@ -1493,8 +1700,8 @@
           "name": "Mat",
           "persistentUuid": "f31cfe61-a70c-4a6c-8235-463deb3e2b37",
           "width": 152,
-          "x": 563,
-          "y": 382,
+          "x": 516,
+          "y": 115,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1508,9 +1715,9 @@
           "name": "DialogueBox",
           "persistentUuid": "66e09ffd-c2e8-49c4-b89b-73e0eeae7a27",
           "width": 746,
-          "x": 26,
-          "y": 402,
-          "zOrder": 8,
+          "x": 27,
+          "y": 408,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1525,7 +1732,7 @@
           "width": 0,
           "x": 63,
           "y": 425,
-          "zOrder": 9,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1541,6 +1748,66 @@
           "x": 84,
           "y": 318,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Janela",
+          "persistentUuid": "7ec6909c-5ae1-4198-9d26-a13736b7d0ea",
+          "width": 53,
+          "x": 342,
+          "y": 25,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Janela",
+          "persistentUuid": "51b7fcc0-2404-4d60-9f3f-9e8856fe8dec",
+          "width": 53,
+          "x": 398,
+          "y": 25,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "89657b05-92e2-4175-b240-cfb29358be3d",
+          "width": 33,
+          "x": 282,
+          "y": 452,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "53eef40c-a5ae-426d-9ec5-0567299afa4f",
+          "width": 33,
+          "x": 477,
+          "y": 451,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2880,6 +3147,140 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "Janela",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "janela3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "planta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Scroll",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "pergaminho_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -3074,6 +3475,16 @@
               "parameters": [
                 "Player",
                 "Desk",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Tree",
                 ""
               ]
             },
@@ -3718,7 +4129,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 0.8387409356266261,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4018,7 +4429,7 @@
           "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
           "width": 165,
           "x": 74,
-          "y": 166,
+          "y": 167,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4033,7 +4444,7 @@
           "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
           "width": 165,
           "x": 671,
-          "y": 174,
+          "y": 172,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4192,43 +4603,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 93,
           "layer": "",
           "name": "Wall2",
           "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
           "width": 19,
           "x": 383,
-          "y": 251,
+          "y": 244,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4243,7 +4624,7 @@
           "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
           "width": 19,
           "x": 402,
-          "y": 251,
+          "y": 244,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4258,7 +4639,7 @@
           "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
           "width": 19,
           "x": 383,
-          "y": 344,
+          "y": 337,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4273,7 +4654,7 @@
           "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
           "width": 19,
           "x": 402,
-          "y": 344,
+          "y": 337,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4288,7 +4669,7 @@
           "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
           "width": 19,
           "x": 383,
-          "y": 437,
+          "y": 429,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4303,7 +4684,7 @@
           "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
           "width": 19,
           "x": 402,
-          "y": 437,
+          "y": 429,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4332,8 +4713,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 252,
-          "y": 390,
+          "x": 278,
+          "y": 372,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -4470,6 +4851,81 @@
           "x": 42,
           "y": 257,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "980667d1-b45f-4bb6-bdb8-b10edea07305",
+          "width": 0,
+          "x": 27,
+          "y": 317,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 101,
+          "layer": "",
+          "name": "Wardrobe",
+          "persistentUuid": "c8200299-e726-4b76-a8b6-69987d516ff1",
+          "width": 66,
+          "x": 714,
+          "y": 27,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 34,
+          "layer": "",
+          "name": "Air_Conditioner",
+          "persistentUuid": "33f27d2e-b805-43d6-ab50-fb20bd9dde16",
+          "width": 91,
+          "x": 85,
+          "y": 187,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "017b99e5-84b1-4fce-9858-6b248ed5feab",
+          "width": 33,
+          "x": 20,
+          "y": 94,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "1f589fec-2688-45b4-a17a-94f853f9527a",
+          "width": 33,
+          "x": 19,
+          "y": 47,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5950,17 +6406,6 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
           "assetStoreId": "b0678ec175fb27ed59abb4c0105eb5083e71218215a5632235592647a0e70901",
           "name": "Dish2",
           "tags": "",
@@ -6063,6 +6508,211 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Mat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tapete2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Wardrobe",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "armario.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Air_Conditioner",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "ar.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "planta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Scroll",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "pergaminho_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -6217,6 +6867,26 @@
               "parameters": [
                 "Player",
                 "Seat",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Wardrobe",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Tree",
                 ""
               ]
             },
@@ -6997,7 +7667,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 0.8387409356266243,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7146,7 +7816,7 @@
           "name": "Wall3",
           "persistentUuid": "13b972f0-e36e-4d26-943f-75909e6f02c2",
           "width": 77,
-          "x": -1,
+          "x": 0,
           "y": 0,
           "zOrder": 2,
           "numberProperties": [],
@@ -7230,29 +7900,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Dish",
-          "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
-          "width": 0,
-          "x": 619,
-          "y": 250,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "height": 77,
           "layer": "",
           "name": "Wall3",
           "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
           "width": 77,
-          "x": -1,
-          "y": 167,
+          "x": 0,
+          "y": 166,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -7341,7 +7996,7 @@
           "name": "Wall2",
           "persistentUuid": "12dfdfde-52b8-4fad-a6a3-a2c2bfa716b8",
           "width": 19,
-          "x": -1,
+          "x": 0,
           "y": 56,
           "zOrder": 2,
           "numberProperties": [],
@@ -7426,28 +8081,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 608,
-          "layer": "",
-          "name": "Ground",
-          "persistentUuid": "468b47e6-e5fa-4088-9956-5bdaf42db98d",
-          "width": 992,
-          "x": -104,
-          "y": -7,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 34,
           "layer": "",
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 673,
-          "y": 284,
+          "x": 694,
+          "y": 296,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -7471,21 +8111,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 114,
-          "layer": "",
-          "name": "Juke_Box",
-          "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
-          "width": 120,
-          "x": 22,
-          "y": 403,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 77,
           "layer": "",
           "name": "Wall1",
@@ -7494,21 +8119,6 @@
           "x": 613,
           "y": 523,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 19,
-          "layer": "",
-          "name": "Dish2",
-          "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
-          "width": 32,
-          "x": 510,
-          "y": 257,
-          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7581,9 +8191,144 @@
           "name": "Wall1",
           "persistentUuid": "15bc743b-4204-4c18-ae86-94876d93272f",
           "width": 165,
-          "x": 297,
-          "y": 165,
+          "x": 296,
+          "y": 166,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 95,
+          "layer": "",
+          "name": "Table_Cushions",
+          "persistentUuid": "808987fe-a4ce-42f0-bdfe-20f9848986b3",
+          "width": 172,
+          "x": 104,
+          "y": 350,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 136,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "6f69b279-6811-43bb-b9e9-f4ee5120cbd9",
+          "width": 104,
+          "x": 139,
+          "y": 227,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 118,
+          "layer": "",
+          "name": "Bookshelf",
+          "persistentUuid": "71d149c8-1a1b-42b9-ab00-e8b6b718d5f1",
+          "width": 100,
+          "x": 20,
+          "y": 23,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 118,
+          "layer": "",
+          "name": "Bookshelf",
+          "persistentUuid": "c7f5c151-944b-4551-bf0e-063a01a9ac50",
+          "width": 100,
+          "x": 120,
+          "y": 23,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Window",
+          "persistentUuid": "a1e551a0-907d-4e79-ba6d-d0ca2ff854e8",
+          "width": 53,
+          "x": 167,
+          "y": 550,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Window",
+          "persistentUuid": "6e32cdf6-f33d-4426-a144-7864944e3697",
+          "width": 53,
+          "x": 502,
+          "y": 552,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 608,
+          "layer": "",
+          "name": "Ground",
+          "persistentUuid": "e677e4a6-ecc0-4eee-9c8e-ba71ca3d3eed",
+          "width": 992,
+          "x": -97,
+          "y": -1,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "527476b8-475e-43e1-a639-62ed91839fdf",
+          "width": 33,
+          "x": 706,
+          "y": 451,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "b0c9205e-e146-4205-bf98-db2d4835c11a",
+          "width": 33,
+          "x": 664,
+          "y": 451,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8695,47 +9440,6 @@
           ]
         },
         {
-          "assetStoreId": "87962d68009cd65f43cc75f32e40986b71b768e30e94ef9acd2dad5945c2a895",
-          "name": "Dish",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Dish.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "name": "Wall1",
           "tags": "",
@@ -8901,47 +9605,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Ground",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "piso2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "name": "Logical_Door",
           "tags": "",
           "type": "Sprite",
@@ -9002,99 +9665,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "banquinho.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Juke_Box",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "caixa_de_som.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "assetStoreId": "b0678ec175fb27ed59abb4c0105eb5083e71218215a5632235592647a0e70901",
-          "name": "Dish2",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Dish 2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9177,6 +9747,293 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Table_Cushions",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "mesa_almofadas.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Bookshelf",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "estante.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Mat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tapete3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Window",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "janela4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Ground",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "ideia_piso2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "planta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Scroll",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "pergaminho_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -9280,16 +10137,6 @@
               },
               "parameters": [
                 "Charge",
-                "Juke_Box",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge",
                 "Seat",
                 ""
               ]
@@ -9320,7 +10167,7 @@
               },
               "parameters": [
                 "Player",
-                "Juke_Box",
+                "Seat",
                 ""
               ]
             },
@@ -9330,7 +10177,27 @@
               },
               "parameters": [
                 "Player",
-                "Seat",
+                "Table_Cushions",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Bookshelf",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Tree",
                 ""
               ]
             },
@@ -9932,7 +10799,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9453198732695055,
+        "zoomFactor": 0.8453198732695031,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10171,8 +11038,8 @@
           "name": "Dish",
           "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
           "width": 24,
-          "x": 578,
-          "y": 331,
+          "x": 477,
+          "y": 345,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10187,7 +11054,7 @@
           "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
           "width": 77,
           "x": -1,
-          "y": 167,
+          "y": 166,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -10216,8 +11083,8 @@
           "name": "Wall1",
           "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
           "width": 165,
-          "x": 614,
-          "y": 140,
+          "x": 616,
+          "y": 137,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -10382,7 +11249,7 @@
           "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
           "width": 19,
           "x": 383,
-          "y": 437,
+          "y": 431,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -10397,7 +11264,7 @@
           "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
           "width": 19,
           "x": 402,
-          "y": 437,
+          "y": 431,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -10413,7 +11280,7 @@
           "width": 992,
           "x": -96,
           "y": 0,
-          "zOrder": -10,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10426,8 +11293,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 245,
-          "y": 287,
+          "x": 257,
+          "y": 196,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -10471,8 +11338,8 @@
           "name": "Dish2",
           "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
           "width": 26,
-          "x": 578,
-          "y": 258,
+          "x": 475,
+          "y": 246,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10486,8 +11353,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 426,
-          "y": 350,
+          "x": 314,
+          "y": 372,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -10501,8 +11368,8 @@
           "name": "BlankPlayingCard",
           "persistentUuid": "a8eaf9b3-472e-48b3-aef4-63317f3dd330",
           "width": 756,
-          "x": 19,
-          "y": 406,
+          "x": 21,
+          "y": 413,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10554,16 +11421,136 @@
           "initialVariables": []
         },
         {
-          "angle": 359.90496826171875,
+          "angle": 360,
           "customSize": true,
-          "height": 125,
+          "height": 159,
           "layer": "",
           "name": "Logical_Door",
           "persistentUuid": "6d9e3fe1-2102-41e8-9955-c7f15b8240d3",
-          "width": 250,
-          "x": 561.896484375,
-          "y": 243.79275512695312,
+          "width": 377,
+          "x": 443.868408203125,
+          "y": 226.6874542236328,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "name": "TV",
+          "persistentUuid": "36b94e61-3928-481d-92b3-81d2df54712f",
+          "width": 109,
+          "x": 130,
+          "y": 198,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 95,
+          "layer": "",
+          "name": "Metal_Table",
+          "persistentUuid": "96447945-ee1f-4bed-8d07-b2124a5ab10e",
+          "width": 140,
+          "x": 426,
+          "y": 429,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "48f29451-5339-4397-bb6f-b673b087d508",
+          "width": 47,
+          "x": 161,
+          "y": 302,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "fc9f9f80-4bfd-4680-92cd-f2e19ae36a17",
+          "width": 47,
+          "x": 212,
+          "y": 302,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "27c0eb6c-883b-4a7c-bda7-9330c16f6a01",
+          "width": 47,
+          "x": 109,
+          "y": 301,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 34,
+          "layer": "",
+          "name": "Air",
+          "persistentUuid": "341dccfe-15b9-4550-aebb-1cc09009933b",
+          "width": 91,
+          "x": 653,
+          "y": 157,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "ac55b57e-5a7d-416a-ae28-978af71c28ea",
+          "width": 33,
+          "x": 348,
+          "y": 449,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "62b2a73a-f1af-4d91-87ae-a7d42c2376fd",
+          "width": 33,
+          "x": 349,
+          "y": 423,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11962,58 +12949,6 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "name": "Juke_Box",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "caixa_de_som.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
           "assetStoreId": "b0678ec175fb27ed59abb4c0105eb5083e71218215a5632235592647a0e70901",
           "name": "Dish2",
           "tags": "",
@@ -12168,6 +13103,252 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Metal_Table",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "mesa_metal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "TV",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "televisao.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Mat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tapete4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Air",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "ar2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "planta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Scroll",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "pergaminho_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -12290,16 +13471,6 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
-                "Charge",
-                "Juke_Box",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
                 "Player",
                 "Wall1",
                 ""
@@ -12311,7 +13482,7 @@
               },
               "parameters": [
                 "Player",
-                "Juke_Box",
+                "Seat",
                 ""
               ]
             },
@@ -12321,7 +13492,27 @@
               },
               "parameters": [
                 "Player",
-                "Seat",
+                "Metal_Table",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "TV",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Tree",
                 ""
               ]
             },
@@ -13143,7 +14334,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7468800917118792,
+        "zoomFactor": 0.7718800917118788,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -13172,8 +14363,8 @@
           "name": "BookBlue",
           "persistentUuid": "abab1297-57c9-4cfe-a636-cae41f0059f4",
           "width": 0,
-          "x": 322,
-          "y": 312,
+          "x": 341,
+          "y": 356,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -13278,7 +14469,7 @@
           "persistentUuid": "38053d5b-0426-4220-a615-edd4b17db374",
           "width": 165,
           "x": 635,
-          "y": 523,
+          "y": 522,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13382,8 +14573,8 @@
           "name": "Dish",
           "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
           "width": 0,
-          "x": 619,
-          "y": 250,
+          "x": 621,
+          "y": 395,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -13428,7 +14619,7 @@
           "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
           "width": 165,
           "x": 74,
-          "y": 166,
+          "y": 167,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13443,7 +14634,7 @@
           "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
           "width": 165,
           "x": 671,
-          "y": 174,
+          "y": 172,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13608,7 +14799,7 @@
           "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
           "width": 19,
           "x": 383,
-          "y": 183,
+          "y": 167,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13623,7 +14814,7 @@
           "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
           "width": 19,
           "x": 402,
-          "y": 183,
+          "y": 167,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13638,7 +14829,7 @@
           "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
           "width": 19,
           "x": 383,
-          "y": 251,
+          "y": 235,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13653,7 +14844,7 @@
           "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
           "width": 19,
           "x": 402,
-          "y": 251,
+          "y": 235,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13668,7 +14859,7 @@
           "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
           "width": 19,
           "x": 383,
-          "y": 344,
+          "y": 328,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13683,37 +14874,7 @@
           "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
           "width": 19,
           "x": 402,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
-          "width": 19,
-          "x": 383,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
-          "width": 19,
-          "x": 402,
-          "y": 437,
+          "y": 328,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13742,24 +14903,9 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 507,
-          "y": 249,
+          "x": 386,
+          "y": 427,
           "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "name": "Seat",
-          "persistentUuid": "58cfb09c-c0ac-4d9f-acdb-75ac54316edd",
-          "width": 54,
-          "x": 298,
-          "y": 411,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -13772,8 +14918,8 @@
           "name": "Juke_Box",
           "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
           "width": 120,
-          "x": 22,
-          "y": 403,
+          "x": 660,
+          "y": 408,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13788,7 +14934,7 @@
           "persistentUuid": "e2c88ba9-ec1e-4abb-a96d-608cc0a91311",
           "width": 165,
           "x": 552,
-          "y": 523,
+          "y": 522,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -13802,8 +14948,8 @@
           "name": "Dish2",
           "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
           "width": 32,
-          "x": 510,
-          "y": 257,
+          "x": 515,
+          "y": 402,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -13817,8 +14963,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 619,
-          "y": 248,
+          "x": 622,
+          "y": 148,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -13834,21 +14980,6 @@
           "width": 756,
           "x": 19,
           "y": 406,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "OpenBook",
-          "persistentUuid": "ce34fa29-4479-40f4-804d-d342cf8e51df",
-          "width": 0,
-          "x": 44,
-          "y": 258,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -13877,9 +15008,129 @@
           "name": "OpenBook",
           "persistentUuid": "601e516b-5c72-4646-8bb7-2d41da533a40",
           "width": 0,
-          "x": 324,
-          "y": 312,
+          "x": 341,
+          "y": 357,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 377,
+          "layer": "",
+          "name": "Logical_Door",
+          "persistentUuid": "f2444092-6d2f-4b9c-876e-82e7547e550b",
+          "width": 159,
+          "x": 505,
+          "y": 66,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 153,
+          "layer": "",
+          "name": "Working_Desk",
+          "persistentUuid": "791bfdf9-dd07-4039-8ffd-3e9ed547f090",
+          "width": 123,
+          "x": 122,
+          "y": 189,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "Seat",
+          "persistentUuid": "26c53435-3393-4570-a007-983beb7670d8",
+          "width": 54,
+          "x": 329,
+          "y": 357,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 111,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "4e8c994b-100c-45f4-9979-bdbd88c2cee5",
+          "width": 152,
+          "x": 18,
+          "y": 411,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Window",
+          "persistentUuid": "28e56f21-1051-4300-8615-ba183990c2e8",
+          "width": 53,
+          "x": 451,
+          "y": 25,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Window",
+          "persistentUuid": "fbcd65ed-230b-4b39-a14a-71e93c57cc9b",
+          "width": 53,
+          "x": 669,
+          "y": 25,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "2cd8b787-9793-4766-80c6-c021a147ffe9",
+          "width": 33,
+          "x": 20,
+          "y": 95,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "df627aca-6468-41f7-a26b-d56bf1494669",
+          "width": 33,
+          "x": 20,
+          "y": 51,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15238,88 +16489,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Logical_Door",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "circuito_sala_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Seat",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "banquinho.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "name": "Juke_Box",
           "tags": "",
           "type": "Sprite",
@@ -15358,17 +16527,6 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
         },
         {
           "assetStoreId": "b0678ec175fb27ed59abb4c0105eb5083e71218215a5632235592647a0e70901",
@@ -15473,6 +16631,293 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Logical_Door",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "circuito_sala_04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Mat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tapete5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Seat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "banquinho.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Working_Desk",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "escrivaninha.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Window",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "janela3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "planta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Scroll",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "pergaminho_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -15576,16 +17021,6 @@
               },
               "parameters": [
                 "Charge",
-                "Seat",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge",
                 "BookBlue",
                 ""
               ]
@@ -15627,6 +17062,26 @@
               "parameters": [
                 "Player",
                 "Seat",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Working_Desk",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Tree",
                 ""
               ]
             },
@@ -16206,18 +17661,6 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Seat",
-                "",
-                "",
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "KeyPressed"
@@ -16407,7 +17850,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 0.8387409356266261,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -16436,9 +17879,9 @@
           "name": "BookBlue",
           "persistentUuid": "abab1297-57c9-4cfe-a636-cae41f0059f4",
           "width": 0,
-          "x": 39,
-          "y": 257,
-          "zOrder": 3,
+          "x": 190,
+          "y": 218,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16556,7 +17999,7 @@
           "name": "Wall3",
           "persistentUuid": "13b972f0-e36e-4d26-943f-75909e6f02c2",
           "width": 77,
-          "x": -1,
+          "x": 0,
           "y": 0,
           "zOrder": 2,
           "numberProperties": [],
@@ -16572,7 +18015,7 @@
           "persistentUuid": "41c02043-9926-49ac-9ec5-fc482d18ed51",
           "width": 77,
           "x": 723,
-          "y": 0,
+          "y": -1,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -16617,7 +18060,7 @@
           "persistentUuid": "6db8af20-e628-4b9e-984d-0f6df00221c1",
           "width": 165,
           "x": 558,
-          "y": 0,
+          "y": -1,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -16634,21 +18077,6 @@
           "x": 462,
           "y": -1,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Dish",
-          "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
-          "width": 0,
-          "x": 619,
-          "y": 250,
-          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16677,7 +18105,7 @@
           "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
           "width": 165,
           "x": 74,
-          "y": 166,
+          "y": 167,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -16751,7 +18179,7 @@
           "name": "Wall2",
           "persistentUuid": "12dfdfde-52b8-4fad-a6a3-a2c2bfa716b8",
           "width": 19,
-          "x": -1,
+          "x": 0,
           "y": 56,
           "zOrder": 2,
           "numberProperties": [],
@@ -16896,59 +18324,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 608,
-          "layer": "",
-          "name": "Ground",
-          "persistentUuid": "468b47e6-e5fa-4088-9956-5bdaf42db98d",
-          "width": 992,
-          "x": -96,
-          "y": 0,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 34,
           "layer": "",
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 252,
-          "y": 390,
+          "x": 340,
+          "y": 352,
           "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "name": "Seat",
-          "persistentUuid": "58cfb09c-c0ac-4d9f-acdb-75ac54316edd",
-          "width": 54,
-          "x": 28,
-          "y": 252,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 114,
-          "layer": "",
-          "name": "Juke_Box",
-          "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
-          "width": 120,
-          "x": 22,
-          "y": 403,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16971,28 +18354,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 19,
-          "layer": "",
-          "name": "Dish2",
-          "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
-          "width": 32,
-          "x": 510,
-          "y": 257,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 33,
           "layer": "",
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 541,
-          "y": 141,
+          "x": 561,
+          "y": 161,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -17008,21 +18376,6 @@
           "width": 756,
           "x": 19,
           "y": 406,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "OpenBook",
-          "persistentUuid": "ce34fa29-4479-40f4-804d-d342cf8e51df",
-          "width": 0,
-          "x": 44,
-          "y": 258,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -17051,9 +18404,189 @@
           "name": "OpenBook",
           "persistentUuid": "601e516b-5c72-4646-8bb7-2d41da533a40",
           "width": 0,
-          "x": 42,
-          "y": 257,
+          "x": 191,
+          "y": 218,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "Desk",
+          "persistentUuid": "05d60503-5822-4554-8309-76bfada03931",
+          "width": 143,
+          "x": 19,
+          "y": 217,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "Desk",
+          "persistentUuid": "ac90cfc1-49e1-470b-ad60-185837498acd",
+          "width": 143,
+          "x": 144,
+          "y": 217,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 77,
+          "layer": "",
+          "name": "Wall1",
+          "persistentUuid": "a29817a9-6731-4dc9-9cc3-7728b76e3964",
+          "width": 165,
+          "x": 129,
+          "y": 167,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 101,
+          "layer": "",
+          "name": "Wardrobe",
+          "persistentUuid": "759424fd-45c6-469f-837b-f0787ce61afe",
+          "width": 66,
+          "x": 617,
+          "y": 19,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 101,
+          "layer": "",
+          "name": "Wardrobe",
+          "persistentUuid": "fc14405a-60f8-4dea-ab7d-dfd2d97d4c37",
+          "width": 66,
+          "x": 669,
+          "y": 19,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "fc9d2fe9-ad40-4cd6-be99-8e15ee1bc697",
+          "width": 0,
+          "x": 114,
+          "y": 291,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "0a45c3a9-1f4a-4b25-a69e-84cbe855a251",
+          "width": 0,
+          "x": 210,
+          "y": 291,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "0da5bafe-001b-4a7a-afb6-d25df085997d",
+          "width": 0,
+          "x": 19,
+          "y": 291,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 34,
+          "layer": "",
+          "name": "Air",
+          "persistentUuid": "14478861-6d39-45dc-9ce6-2686b4c3c9a9",
+          "width": 91,
+          "x": 492,
+          "y": 19,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 608,
+          "layer": "",
+          "name": "Ground",
+          "persistentUuid": "13219aa8-a36c-41db-8785-78635daf0a6b",
+          "width": 992,
+          "x": -98,
+          "y": -1,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "ed2c2fd6-020a-4e65-b2b7-a63b5c9add73",
+          "width": 33,
+          "x": 349,
+          "y": 449,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "057eb02d-0914-4a05-a9e4-556f64b10607",
+          "width": 33,
+          "x": 422,
+          "y": 449,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18165,47 +19698,6 @@
           ]
         },
         {
-          "assetStoreId": "87962d68009cd65f43cc75f32e40986b71b768e30e94ef9acd2dad5945c2a895",
-          "name": "Dish",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Dish.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "name": "Wall1",
           "tags": "",
@@ -18371,47 +19863,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Ground",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "piso2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "name": "Logical_Door",
           "tags": "",
           "type": "Sprite",
@@ -18431,140 +19882,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "circuito_sala_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Seat",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "banquinho.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Juke_Box",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "caixa_de_som.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "assetStoreId": "b0678ec175fb27ed59abb4c0105eb5083e71218215a5632235592647a0e70901",
-          "name": "Dish2",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Dish 2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18647,6 +19964,293 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Desk",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "mesa.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Mat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tapete6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Wardrobe",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "armario.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Air",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "ar.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Ground",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "ideia_piso2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "planta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Scroll",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "pergaminho_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -18750,27 +20354,7 @@
               },
               "parameters": [
                 "Charge",
-                "Seat",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge",
                 "BookBlue",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge",
-                "Juke_Box",
                 ""
               ]
             },
@@ -18790,7 +20374,7 @@
               },
               "parameters": [
                 "Player",
-                "Juke_Box",
+                "Desk",
                 ""
               ]
             },
@@ -18800,7 +20384,17 @@
               },
               "parameters": [
                 "Player",
-                "Seat",
+                "Wardrobe",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Tree",
                 ""
               ]
             },
@@ -19210,32 +20804,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -19251,32 +20820,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -19292,21 +20836,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -19322,21 +20852,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -19380,18 +20896,6 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Seat",
-                "",
-                "",
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "KeyPressed"
@@ -19581,7 +21085,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 0.7387409356266265,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -19595,8 +21099,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 368,
-          "y": 78,
+          "x": 363,
+          "y": 453,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -19610,8 +21114,8 @@
           "name": "BookBlue",
           "persistentUuid": "abab1297-57c9-4cfe-a636-cae41f0059f4",
           "width": 0,
-          "x": 39,
-          "y": 257,
+          "x": 30,
+          "y": 256,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -19625,8 +21129,8 @@
           "name": "Door",
           "persistentUuid": "290d4b46-f24e-4041-90c1-f6fb59bdc3cd",
           "width": 60,
-          "x": 554,
-          "y": 523,
+          "x": 366,
+          "y": 522,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -19700,7 +21204,7 @@
           "name": "Wall1",
           "persistentUuid": "fcb25fad-6031-40a0-8059-7b050c7d7ce8",
           "width": 165,
-          "x": 391,
+          "x": 448,
           "y": 522,
           "zOrder": 2,
           "numberProperties": [],
@@ -19716,7 +21220,7 @@
           "persistentUuid": "38053d5b-0426-4220-a615-edd4b17db374",
           "width": 165,
           "x": 635,
-          "y": 523,
+          "y": 522,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -19814,90 +21318,15 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 377,
-          "layer": "",
-          "name": "Logical_Door",
-          "persistentUuid": "d3cc13f5-d803-4d38-8f80-1ac9fb4b652e",
-          "width": 159,
-          "x": 501,
-          "y": 215,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
           "name": "Dish",
           "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
           "width": 0,
-          "x": 619,
-          "y": 250,
+          "x": 436,
+          "y": 398,
           "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall3",
-          "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
-          "width": 77,
-          "x": -1,
-          "y": 167,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
-          "width": 165,
-          "x": 74,
-          "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20060,8 +21489,8 @@
           "name": "Wall2",
           "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
           "width": 19,
-          "x": 383,
-          "y": 183,
+          "x": 576,
+          "y": 77,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -20075,38 +21504,8 @@
           "name": "Wall2",
           "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
           "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
+          "x": 595,
+          "y": 77,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -20120,8 +21519,8 @@
           "name": "Wall2",
           "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
           "width": 19,
-          "x": 383,
-          "y": 344,
+          "x": 576,
+          "y": 238,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -20135,8 +21534,8 @@
           "name": "Wall2",
           "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
           "width": 19,
-          "x": 402,
-          "y": 344,
+          "x": 595,
+          "y": 238,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -20150,8 +21549,8 @@
           "name": "Wall2",
           "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
           "width": 19,
-          "x": 383,
-          "y": 437,
+          "x": 576,
+          "y": 331,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -20165,8 +21564,8 @@
           "name": "Wall2",
           "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
           "width": 19,
-          "x": 402,
-          "y": 437,
+          "x": 595,
+          "y": 331,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -20180,7 +21579,7 @@
           "name": "Ground",
           "persistentUuid": "468b47e6-e5fa-4088-9956-5bdaf42db98d",
           "width": 992,
-          "x": -96,
+          "x": -97,
           "y": 0,
           "zOrder": 0,
           "numberProperties": [],
@@ -20195,8 +21594,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 252,
-          "y": 390,
+          "x": 683,
+          "y": 428,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -20210,23 +21609,8 @@
           "name": "Seat",
           "persistentUuid": "58cfb09c-c0ac-4d9f-acdb-75ac54316edd",
           "width": 54,
-          "x": 28,
-          "y": 252,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 114,
-          "layer": "",
-          "name": "Juke_Box",
-          "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
-          "width": 120,
-          "x": 22,
-          "y": 403,
+          "x": 19,
+          "y": 250,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -20241,7 +21625,7 @@
           "persistentUuid": "e2c88ba9-ec1e-4abb-a96d-608cc0a91311",
           "width": 165,
           "x": 613,
-          "y": 523,
+          "y": 522,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -20255,8 +21639,8 @@
           "name": "Dish2",
           "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
           "width": 32,
-          "x": 510,
-          "y": 257,
+          "x": 331,
+          "y": 406,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -20270,8 +21654,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 647,
-          "y": 331,
+          "x": 683,
+          "y": 175,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -20330,9 +21714,249 @@
           "name": "OpenBook",
           "persistentUuid": "601e516b-5c72-4646-8bb7-2d41da533a40",
           "width": 0,
-          "x": 42,
-          "y": 257,
+          "x": 31,
+          "y": 255,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 377,
+          "layer": "",
+          "name": "Logical_Door",
+          "persistentUuid": "ec445391-7d46-4f57-ba1e-aeab154c147c",
+          "width": 159,
+          "x": 320,
+          "y": 70,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 68,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "e40885f6-fc6a-4547-ba0c-caf7dd97713d",
+          "width": 19,
+          "x": 186,
+          "y": 77,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 68,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "780af059-a739-4f75-ae3e-98bbd478e158",
+          "width": 19,
+          "x": 205,
+          "y": 77,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "24acd7d1-8592-47c8-805d-5ce2a359a0fc",
+          "width": 19,
+          "x": 186,
+          "y": 145,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "4ea76f5f-f88b-49e8-a380-791cc7616420",
+          "width": 19,
+          "x": 205,
+          "y": 145,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "ff467f80-9353-495b-9715-5d4787fceacf",
+          "width": 19,
+          "x": 186,
+          "y": 238,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "3dbecc12-4440-45e5-82f4-52623d5245e9",
+          "width": 19,
+          "x": 205,
+          "y": 238,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "8198e374-5a16-47d8-9c20-83c50cf4e6c5",
+          "width": 19,
+          "x": 186,
+          "y": 331,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "91d2c0ef-fed1-475f-8b16-083576577bf4",
+          "width": 19,
+          "x": 205,
+          "y": 331,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 95,
+          "layer": "",
+          "name": "Metal_Table",
+          "persistentUuid": "95aa29b7-114a-45b8-b680-10b8e8bc117b",
+          "width": 140,
+          "x": 32,
+          "y": 57,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 95,
+          "layer": "",
+          "name": "Metal_Table",
+          "persistentUuid": "48528cb7-d7b6-48d7-966a-67fe62bac22c",
+          "width": 140,
+          "x": 627,
+          "y": 57,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 136,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "162703a8-690a-4b49-8d08-99f081f4e25c",
+          "width": 104,
+          "x": 35,
+          "y": 223,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Window",
+          "persistentUuid": "6598c69d-b674-4b1f-8686-c42a7d0d7aeb",
+          "width": 53,
+          "x": 277,
+          "y": 547,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Window",
+          "persistentUuid": "66bfbace-fd2e-488e-b62b-c4f2ea387d15",
+          "width": 53,
+          "x": 464,
+          "y": 546,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "a5361352-12d7-44a0-92a2-9ed78c43391f",
+          "width": 33,
+          "x": 334,
+          "y": 26,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "13868c49-a983-49f0-9121-1c6370e98abb",
+          "width": 33,
+          "x": 434,
+          "y": 26,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -21691,47 +23315,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Logical_Door",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "circuito_sala_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "name": "Seat",
           "tags": "",
           "type": "Sprite",
@@ -21770,58 +23353,6 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Juke_Box",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "caixa_de_som.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
         },
         {
           "assetStoreId": "b0678ec175fb27ed59abb4c0105eb5083e71218215a5632235592647a0e70901",
@@ -21926,6 +23457,263 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Logical_Door",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "circuito_sala_05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Mat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tapete7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Metal_Table",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "mesa_metal2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "Window",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "janela3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "planta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Scroll",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "pergaminho_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -22048,16 +23836,6 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
-                "Charge",
-                "Juke_Box",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
                 "Player",
                 "Wall1",
                 ""
@@ -22069,7 +23847,7 @@
               },
               "parameters": [
                 "Player",
-                "Juke_Box",
+                "Seat",
                 ""
               ]
             },
@@ -22079,7 +23857,17 @@
               },
               "parameters": [
                 "Player",
-                "Seat",
+                "Metal_Table",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Tree",
                 ""
               ]
             },
@@ -22860,7 +24648,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 0.8887409356266248,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -22874,8 +24662,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 368,
-          "y": 78,
+          "x": 363,
+          "y": 453,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -22889,9 +24677,9 @@
           "name": "BookBlue",
           "persistentUuid": "abab1297-57c9-4cfe-a636-cae41f0059f4",
           "width": 0,
-          "x": 39,
-          "y": 257,
-          "zOrder": 3,
+          "x": 596,
+          "y": 175,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22904,8 +24692,8 @@
           "name": "Door",
           "persistentUuid": "290d4b46-f24e-4041-90c1-f6fb59bdc3cd",
           "width": 60,
-          "x": 554,
-          "y": 523,
+          "x": 366,
+          "y": 522,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -22979,7 +24767,7 @@
           "name": "Wall1",
           "persistentUuid": "fcb25fad-6031-40a0-8059-7b050c7d7ce8",
           "width": 165,
-          "x": 391,
+          "x": 448,
           "y": 522,
           "zOrder": 2,
           "numberProperties": [],
@@ -22995,7 +24783,7 @@
           "persistentUuid": "38053d5b-0426-4220-a615-edd4b17db374",
           "width": 165,
           "x": 635,
-          "y": 523,
+          "y": 522,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -23086,96 +24874,6 @@
           "width": 165,
           "x": 394,
           "y": 0,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 377,
-          "layer": "",
-          "name": "Logical_Door",
-          "persistentUuid": "d3cc13f5-d803-4d38-8f80-1ac9fb4b652e",
-          "width": 159,
-          "x": 501,
-          "y": 215,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Dish",
-          "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
-          "width": 0,
-          "x": 619,
-          "y": 250,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall3",
-          "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
-          "width": 77,
-          "x": -1,
-          "y": 167,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
-          "width": 165,
-          "x": 74,
-          "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -23334,178 +25032,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
-          "width": 19,
-          "x": 383,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
-          "width": 19,
-          "x": 402,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
-          "width": 19,
-          "x": 383,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
-          "width": 19,
-          "x": 402,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 608,
-          "layer": "",
-          "name": "Ground",
-          "persistentUuid": "468b47e6-e5fa-4088-9956-5bdaf42db98d",
-          "width": 992,
-          "x": -96,
-          "y": 0,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 34,
-          "layer": "",
-          "name": "Charge",
-          "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
-          "width": 32,
-          "x": 252,
-          "y": 390,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 64,
           "layer": "",
           "name": "Seat",
           "persistentUuid": "58cfb09c-c0ac-4d9f-acdb-75ac54316edd",
           "width": 54,
-          "x": 28,
-          "y": 252,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 114,
-          "layer": "",
-          "name": "Juke_Box",
-          "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
-          "width": 120,
-          "x": 22,
-          "y": 403,
+          "x": 19,
+          "y": 250,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -23520,38 +25053,8 @@
           "persistentUuid": "e2c88ba9-ec1e-4abb-a96d-608cc0a91311",
           "width": 165,
           "x": 613,
-          "y": 523,
+          "y": 522,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 19,
-          "layer": "",
-          "name": "Dish2",
-          "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
-          "width": 32,
-          "x": 510,
-          "y": 257,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 33,
-          "layer": "",
-          "name": "Charge2",
-          "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
-          "width": 31,
-          "x": 647,
-          "y": 331,
-          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -23566,21 +25069,6 @@
           "width": 756,
           "x": 19,
           "y": 406,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "OpenBook",
-          "persistentUuid": "ce34fa29-4479-40f4-804d-d342cf8e51df",
-          "width": 0,
-          "x": 44,
-          "y": 258,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -23609,9 +25097,279 @@
           "name": "OpenBook",
           "persistentUuid": "601e516b-5c72-4646-8bb7-2d41da533a40",
           "width": 0,
-          "x": 42,
-          "y": 257,
+          "x": 597,
+          "y": 176,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "a5361352-12d7-44a0-92a2-9ed78c43391f",
+          "width": 33,
+          "x": 330,
+          "y": 449,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "13868c49-a983-49f0-9121-1c6370e98abb",
+          "width": 33,
+          "x": 431,
+          "y": 450,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 608,
+          "layer": "",
+          "name": "Ground",
+          "persistentUuid": "31a4167b-022d-4a66-a4e6-808ea3ef14c0",
+          "width": 992,
+          "x": -97,
+          "y": 0,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 95,
+          "layer": "",
+          "name": "Table_Cushions",
+          "persistentUuid": "628818f3-5d6c-4c33-9a5b-7799aa101e9f",
+          "width": 172,
+          "x": 527,
+          "y": 137,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 118,
+          "layer": "",
+          "name": "Bookshelf",
+          "persistentUuid": "598a5987-c429-4adb-ba31-f4dd3c4964b4",
+          "width": 100,
+          "x": 35,
+          "y": 20,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "name": "TV",
+          "persistentUuid": "7b340a29-3082-4290-a6b6-203da09dfa53",
+          "width": 109,
+          "x": 559,
+          "y": 28,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 34,
+          "layer": "",
+          "name": "Air",
+          "persistentUuid": "53068d7f-6526-4cb7-940d-366726746d2d",
+          "width": 91,
+          "x": 250,
+          "y": 20,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "8762d986-8f02-4529-90df-b3335c17fb06",
+          "width": 47,
+          "x": 431,
+          "y": 95,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 118,
+          "layer": "",
+          "name": "Bookshelf",
+          "persistentUuid": "45521e29-d330-4b3f-97ba-132105adeb00",
+          "width": 100,
+          "x": 135,
+          "y": 20,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "bbade65f-2185-44ea-b3f0-ca2dce2213df",
+          "width": 47,
+          "x": 324,
+          "y": 95,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "8883eac2-f549-4012-819e-e933b631bff6",
+          "width": 47,
+          "x": 431,
+          "y": 167,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "cc38cef3-7463-4dac-881b-958455e66e8e",
+          "width": 47,
+          "x": 324,
+          "y": 167,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "0111369d-51a1-429d-8993-c73cf02420fa",
+          "width": 47,
+          "x": 431,
+          "y": 238,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "9cd4d657-25a0-4d9b-8939-300c2b217760",
+          "width": 47,
+          "x": 324,
+          "y": 238,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "63d67f5a-52fc-437b-8f21-cb0ffbda645c",
+          "width": 47,
+          "x": 431,
+          "y": 309,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "ea975acb-e3e6-4cae-aa35-2aa11e4f7016",
+          "width": 47,
+          "x": 324,
+          "y": 309,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "ef4c069f-0351-4fee-9427-e2533c706e33",
+          "width": 47,
+          "x": 430,
+          "y": 380,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 47,
+          "layer": "",
+          "name": "Mat",
+          "persistentUuid": "9ab6ed39-6f3d-4b6d-a70c-286afe1130aa",
+          "width": 47,
+          "x": 323,
+          "y": 380,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -24723,47 +26481,6 @@
           ]
         },
         {
-          "assetStoreId": "87962d68009cd65f43cc75f32e40986b71b768e30e94ef9acd2dad5945c2a895",
-          "name": "Dish",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Dish.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "name": "Wall1",
           "tags": "",
@@ -24928,222 +26645,6 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "name": "Ground",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "piso2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Logical_Door",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "circuito_sala_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Seat",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "banquinho.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Juke_Box",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "caixa_de_som.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "assetStoreId": "b0678ec175fb27ed59abb4c0105eb5083e71218215a5632235592647a0e70901",
-          "name": "Dish2",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Dish 2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "1857a255bd4cfd4ea5d0a22397b3f3264ac59d7a6b02757c6f4863219268ce98",
           "name": "BlankPlayingCard",
           "tags": "",
@@ -25205,6 +26706,334 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Tree",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "planta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Ground",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "ideia_piso2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Mat",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "tapete8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Table_Cushions",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "mesa_almofadas.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Bookshelf",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "estante.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "TV",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "televisao.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Air",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "ar.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Scroll",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "pergaminho_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -25308,27 +27137,7 @@
               },
               "parameters": [
                 "Charge",
-                "Seat",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge",
                 "BookBlue",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge",
-                "Juke_Box",
                 ""
               ]
             },
@@ -25348,7 +27157,7 @@
               },
               "parameters": [
                 "Player",
-                "Juke_Box",
+                "Tree",
                 ""
               ]
             },
@@ -25358,7 +27167,27 @@
               },
               "parameters": [
                 "Player",
-                "Seat",
+                "Table_Cushions",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Bookshelf",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "TV",
                 ""
               ]
             },
@@ -25768,32 +27597,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -25809,32 +27613,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -25850,21 +27629,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -25880,21 +27645,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -25938,18 +27689,6 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Seat",
-                "",
-                "",
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "KeyPressed"
