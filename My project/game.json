@@ -1178,6 +1178,42 @@
         "name": "tapete8.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "circuito_06_v1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "circuito_06_v1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "circuito_07_v1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "circuito_07_v1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "circuito_08_v1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "circuito_08_v1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "circuito_09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "circuito_09.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -31301,8 +31337,8 @@
           "name": "Wall1",
           "persistentUuid": "adfe2abc-f41d-4c60-9555-91022d59ca23",
           "width": 165,
-          "x": 165,
-          "y": 522,
+          "x": 222,
+          "y": 523,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -31451,8 +31487,8 @@
           "name": "Logical_Door",
           "persistentUuid": "d3cc13f5-d803-4d38-8f80-1ac9fb4b652e",
           "width": 159,
-          "x": 501,
-          "y": 215,
+          "x": 113,
+          "y": 195,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -31469,66 +31505,6 @@
           "x": 619,
           "y": 250,
           "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall3",
-          "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
-          "width": 77,
-          "x": -1,
-          "y": 167,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
-          "width": 165,
-          "x": 74,
-          "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31686,96 +31662,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
-          "width": 19,
-          "x": 383,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
-          "width": 19,
-          "x": 402,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 93,
           "layer": "",
           "name": "Wall2",
@@ -31851,21 +31737,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 114,
-          "layer": "",
-          "name": "Juke_Box",
-          "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
-          "width": 120,
-          "x": 22,
-          "y": 403,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 77,
           "layer": "",
           "name": "Wall1",
@@ -31901,8 +31772,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 647,
-          "y": 331,
+          "x": 331,
+          "y": 217,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -31964,6 +31835,96 @@
           "x": 42,
           "y": 257,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 76,
+          "layer": "",
+          "name": "Door3",
+          "persistentUuid": "8d06963b-a73c-4226-9f1e-83ba51bc44d6",
+          "width": 60,
+          "x": 165,
+          "y": 523,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 270,
+          "customSize": true,
+          "height": 157,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "49aeb340-acae-401c-bcba-93b001798f90",
+          "width": 362,
+          "x": 404,
+          "y": 301,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "b7c7c33d-711b-4f98-a730-fbd43137567e",
+          "width": 19,
+          "x": 402,
+          "y": 437,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "1cd496d7-6921-4711-9bc4-763f4f0d3881",
+          "width": 19,
+          "x": 383,
+          "y": 437,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "f92826b0-f052-4122-af08-a09bc477a10e",
+          "width": 19,
+          "x": 404,
+          "y": 389,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "524b5b92-bc9b-4a90-82d5-23496d34b589",
+          "width": 19,
+          "x": 385,
+          "y": 389,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33557,6 +33518,293 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "6ccc9a7787f5d46363c032e0af73c9129eeae4e852d77e17a4794732682c6148",
+          "name": "Door3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Closed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Closed.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Closing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Closing_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Closing_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Closing_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Closing_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Closing_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Opening",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Opening_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Opening_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Opening_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Opening_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Door_Opening_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "circuito_06_v1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -34535,7 +34783,7 @@
           "name": "Door",
           "persistentUuid": "290d4b46-f24e-4041-90c1-f6fb59bdc3cd",
           "width": 60,
-          "x": 554,
+          "x": 331,
           "y": 523,
           "zOrder": 2,
           "numberProperties": [],
@@ -34595,7 +34843,7 @@
           "name": "Wall1",
           "persistentUuid": "954830ea-01bc-4c27-8777-c1463871afc1",
           "width": 165,
-          "x": 330,
+          "x": 504,
           "y": 522,
           "zOrder": 2,
           "numberProperties": [],
@@ -34724,21 +34972,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 377,
-          "layer": "",
-          "name": "Logical_Door",
-          "persistentUuid": "d3cc13f5-d803-4d38-8f80-1ac9fb4b652e",
-          "width": 159,
-          "x": 501,
-          "y": 215,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -34748,66 +34981,6 @@
           "x": 619,
           "y": 250,
           "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall3",
-          "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
-          "width": 77,
-          "x": -1,
-          "y": 167,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
-          "width": 165,
-          "x": 74,
-          "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34965,126 +35138,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
-          "width": 19,
-          "x": 383,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
-          "width": 19,
-          "x": 402,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
-          "width": 19,
-          "x": 383,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
-          "width": 19,
-          "x": 402,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 608,
           "layer": "",
           "name": "Ground",
@@ -35105,8 +35158,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 252,
-          "y": 390,
+          "x": 549,
+          "y": 409,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -35135,8 +35188,8 @@
           "name": "Juke_Box",
           "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
           "width": 120,
-          "x": 22,
-          "y": 403,
+          "x": 137,
+          "y": 25,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -35180,8 +35233,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 647,
-          "y": 331,
+          "x": 648,
+          "y": 213,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -35243,6 +35296,21 @@
           "x": 42,
           "y": 257,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 270,
+          "customSize": true,
+          "height": 149,
+          "layer": "",
+          "name": "Logical_Door",
+          "persistentUuid": "2a3f9bd4-af64-455a-8020-6aa0891d4615",
+          "width": 343,
+          "x": 189,
+          "y": 304,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -36601,47 +36669,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Logical_Door",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "circuito_sala_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "name": "Seat",
           "tags": "",
           "type": "Sprite",
@@ -36836,6 +36863,47 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Logical_Door",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "circuito_07_v1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -37814,8 +37882,8 @@
           "name": "Door",
           "persistentUuid": "290d4b46-f24e-4041-90c1-f6fb59bdc3cd",
           "width": 60,
-          "x": 554,
-          "y": 523,
+          "x": 277,
+          "y": 521,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -37859,7 +37927,7 @@
           "name": "Wall1",
           "persistentUuid": "adfe2abc-f41d-4c60-9555-91022d59ca23",
           "width": 165,
-          "x": 165,
+          "x": 112,
           "y": 522,
           "zOrder": 2,
           "numberProperties": [],
@@ -37874,8 +37942,8 @@
           "name": "Wall1",
           "persistentUuid": "954830ea-01bc-4c27-8777-c1463871afc1",
           "width": 165,
-          "x": 330,
-          "y": 522,
+          "x": 339,
+          "y": 523,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -37889,8 +37957,8 @@
           "name": "Wall1",
           "persistentUuid": "fcb25fad-6031-40a0-8059-7b050c7d7ce8",
           "width": 165,
-          "x": 391,
-          "y": 522,
+          "x": 450,
+          "y": 524,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -38003,21 +38071,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 377,
-          "layer": "",
-          "name": "Logical_Door",
-          "persistentUuid": "d3cc13f5-d803-4d38-8f80-1ac9fb4b652e",
-          "width": 159,
-          "x": 501,
-          "y": 215,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -38027,66 +38080,6 @@
           "x": 619,
           "y": 250,
           "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall3",
-          "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
-          "width": 77,
-          "x": -1,
-          "y": 167,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
-          "width": 165,
-          "x": 74,
-          "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -38244,126 +38237,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
-          "width": 19,
-          "x": 383,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
-          "width": 19,
-          "x": 402,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
-          "width": 19,
-          "x": 383,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
-          "width": 19,
-          "x": 402,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 608,
           "layer": "",
           "name": "Ground",
@@ -38384,8 +38257,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 252,
-          "y": 390,
+          "x": 431,
+          "y": 217,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -38401,21 +38274,6 @@
           "width": 54,
           "x": 28,
           "y": 252,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 114,
-          "layer": "",
-          "name": "Juke_Box",
-          "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
-          "width": 120,
-          "x": 22,
-          "y": 403,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -38522,6 +38380,21 @@
           "x": 42,
           "y": 257,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 270,
+          "customSize": true,
+          "height": 147,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "45e99203-852a-4bba-ba02-6d77a13380da",
+          "width": 337,
+          "x": 141,
+          "y": 309,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -39880,47 +39753,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "Logical_Door",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "circuito_sala_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "name": "Seat",
           "tags": "",
           "type": "Sprite",
@@ -40115,6 +39947,47 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "circuito_08_v1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -41093,7 +40966,7 @@
           "name": "Door",
           "persistentUuid": "290d4b46-f24e-4041-90c1-f6fb59bdc3cd",
           "width": 60,
-          "x": 554,
+          "x": 330,
           "y": 523,
           "zOrder": 2,
           "numberProperties": [],
@@ -41153,8 +41026,8 @@
           "name": "Wall1",
           "persistentUuid": "954830ea-01bc-4c27-8777-c1463871afc1",
           "width": 165,
-          "x": 330,
-          "y": 522,
+          "x": 449,
+          "y": 523,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -41288,8 +41161,8 @@
           "name": "Logical_Door",
           "persistentUuid": "d3cc13f5-d803-4d38-8f80-1ac9fb4b652e",
           "width": 159,
-          "x": 501,
-          "y": 215,
+          "x": 279,
+          "y": 201,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -41306,66 +41179,6 @@
           "x": 619,
           "y": 250,
           "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall3",
-          "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
-          "width": 77,
-          "x": -1,
-          "y": 167,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
-          "width": 165,
-          "x": 74,
-          "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -41515,126 +41328,6 @@
           "width": 19,
           "x": 781,
           "y": 58,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
-          "width": 19,
-          "x": 383,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
-          "width": 19,
-          "x": 402,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
-          "width": 19,
-          "x": 383,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
-          "width": 19,
-          "x": 402,
-          "y": 437,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -44609,41 +44302,11 @@
           "customSize": true,
           "height": 77,
           "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
           "name": "Wall1",
           "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
           "width": 165,
           "x": 74,
           "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -44802,73 +44465,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 93,
           "layer": "",
           "name": "Wall2",
           "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
           "width": 19,
-          "x": 383,
-          "y": 344,
+          "x": 260,
+          "y": 381,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -44882,8 +44485,8 @@
           "name": "Wall2",
           "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
           "width": 19,
-          "x": 402,
-          "y": 344,
+          "x": 278,
+          "y": 380,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -44897,8 +44500,8 @@
           "name": "Wall2",
           "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
           "width": 19,
-          "x": 383,
-          "y": 437,
+          "x": 259,
+          "y": 431,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -44912,8 +44515,8 @@
           "name": "Wall2",
           "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
           "width": 19,
-          "x": 402,
-          "y": 437,
+          "x": 278,
+          "y": 431,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -44942,8 +44545,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 252,
-          "y": 390,
+          "x": 377,
+          "y": 291,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -47651,8 +47254,8 @@
           "name": "Door",
           "persistentUuid": "290d4b46-f24e-4041-90c1-f6fb59bdc3cd",
           "width": 60,
-          "x": 554,
-          "y": 523,
+          "x": 330,
+          "y": 522,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -47711,8 +47314,8 @@
           "name": "Wall1",
           "persistentUuid": "954830ea-01bc-4c27-8777-c1463871afc1",
           "width": 165,
-          "x": 330,
-          "y": 522,
+          "x": 449,
+          "y": 524,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -47846,8 +47449,8 @@
           "name": "Logical_Door",
           "persistentUuid": "d3cc13f5-d803-4d38-8f80-1ac9fb4b652e",
           "width": 159,
-          "x": 501,
-          "y": 215,
+          "x": 284,
+          "y": 206,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -47888,41 +47491,11 @@
           "customSize": true,
           "height": 77,
           "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
           "name": "Wall1",
           "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
           "width": 165,
           "x": 74,
           "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -48073,126 +47646,6 @@
           "width": 19,
           "x": 781,
           "y": 58,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
-          "width": 19,
-          "x": 383,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
-          "width": 19,
-          "x": 402,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
-          "width": 19,
-          "x": 383,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
-          "width": 19,
-          "x": 402,
-          "y": 437,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -54204,13 +53657,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 76,
+          "height": 78,
           "layer": "",
           "name": "Door",
           "persistentUuid": "290d4b46-f24e-4041-90c1-f6fb59bdc3cd",
           "width": 60,
-          "x": 554,
-          "y": 523,
+          "x": 330,
+          "y": 521,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -54269,8 +53722,8 @@
           "name": "Wall1",
           "persistentUuid": "954830ea-01bc-4c27-8777-c1463871afc1",
           "width": 165,
-          "x": 330,
-          "y": 522,
+          "x": 453,
+          "y": 523,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -54398,21 +53851,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 377,
-          "layer": "",
-          "name": "Logical_Door",
-          "persistentUuid": "d3cc13f5-d803-4d38-8f80-1ac9fb4b652e",
-          "width": 159,
-          "x": 501,
-          "y": 215,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -54422,66 +53860,6 @@
           "x": 619,
           "y": 250,
           "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall3",
-          "persistentUuid": "ca1448ab-d666-4f62-8784-44d67eb30714",
-          "width": 77,
-          "x": -1,
-          "y": 167,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall4",
-          "persistentUuid": "e78243c9-2a51-48d1-ad94-7b57cffabc29",
-          "width": 77,
-          "x": 721,
-          "y": 172,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
-          "width": 165,
-          "x": 74,
-          "y": 166,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 77,
-          "layer": "",
-          "name": "Wall1",
-          "persistentUuid": "c9bb5a25-bc7f-4d5e-9c8f-58abefcda66a",
-          "width": 165,
-          "x": 671,
-          "y": 174,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -54639,126 +54017,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 383,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 402,
-          "y": 251,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
-          "width": 19,
-          "x": 383,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "b42bcbe9-8267-4297-9859-428667325a6a",
-          "width": 19,
-          "x": 402,
-          "y": 344,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "74fc8819-b2d4-4436-b6ca-858226c72d2c",
-          "width": 19,
-          "x": 383,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "8d893c14-e530-4a8a-8daf-9d6d77505a18",
-          "width": 19,
-          "x": 402,
-          "y": 437,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 608,
           "layer": "",
           "name": "Ground",
@@ -54796,21 +54054,6 @@
           "width": 54,
           "x": 28,
           "y": 252,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 114,
-          "layer": "",
-          "name": "Juke_Box",
-          "persistentUuid": "10a6535b-d86e-4ee1-b261-0bd00d4b5a7f",
-          "width": 120,
-          "x": 22,
-          "y": 403,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -54917,6 +54160,21 @@
           "x": 42,
           "y": 257,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 374,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "c4e7204d-612f-4d40-852d-93968491da8f",
+          "width": 228,
+          "x": 247,
+          "y": 190,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -56510,6 +55768,47 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "circuito_09.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
