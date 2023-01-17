@@ -29721,17 +29721,6 @@
           ]
         },
         {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
           "assetStoreId": "1857a255bd4cfd4ea5d0a22397b3f3264ac59d7a6b02757c6f4863219268ce98",
           "name": "BlankPlayingCard",
           "tags": "",
@@ -31115,8 +31104,8 @@
           "name": "Dish",
           "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
           "width": 0,
-          "x": 619,
-          "y": 250,
+          "x": 124,
+          "y": 217,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -31325,8 +31314,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 185,
-          "y": 380,
+          "x": 228,
+          "y": 229,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -31370,8 +31359,8 @@
           "name": "Dish2",
           "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
           "width": 32,
-          "x": 510,
-          "y": 257,
+          "x": 230,
+          "y": 233,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -31385,8 +31374,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 331,
-          "y": 217,
+          "x": 125,
+          "y": 224,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -34125,7 +34114,7 @@
                 "value": "ChangeAnimation"
               },
               "parameters": [
-                "Door",
+                "Door3",
                 "=",
                 "2"
               ]
@@ -34166,7 +34155,7 @@
                 "value": "ChangeAnimation"
               },
               "parameters": [
-                "Door",
+                "Door3",
                 "=",
                 "2"
               ]
@@ -34196,7 +34185,7 @@
                 "value": "ChangeAnimation"
               },
               "parameters": [
-                "Door",
+                "Door3",
                 "=",
                 "1"
               ]
@@ -34226,7 +34215,7 @@
                 "value": "ChangeAnimation"
               },
               "parameters": [
-                "Door",
+                "Door3",
                 "=",
                 "1"
               ]
@@ -34389,16 +34378,6 @@
                     "",
                     "",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Animation"
-                  },
-                  "parameters": [
-                    "Door",
-                    "=",
-                    "2"
                   ]
                 }
               ],
