@@ -44299,8 +44299,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 368,
-          "y": 78,
+          "x": 364,
+          "y": 89,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -44947,6 +44947,51 @@
           "x": 42,
           "y": 257,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "d7ac7098-9bc7-4f8c-a364-d5b47e55bf78",
+          "width": 240,
+          "x": 390,
+          "y": 115,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "3a329cac-c455-4bb3-978a-de12053f5aff",
+          "width": 100,
+          "x": 580,
+          "y": 161,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "b47beee6-f5cb-4ed0-92c1-86c120bd4af0",
+          "width": 70,
+          "x": 359,
+          "y": 84,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -48120,6 +48165,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 52,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "d5584fbd-2e17-4b93-b718-b0cda5e320f0",
+          "width": 162,
+          "x": 335,
+          "y": 119,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -49710,6 +49770,47 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "line.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -50658,8 +50759,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 368,
-          "y": 78,
+          "x": 237,
+          "y": 92,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -51396,6 +51497,51 @@
           "x": 42,
           "y": 257,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "784e4a4c-1b83-432e-8abe-047a6f19af74",
+          "width": 240,
+          "x": 393,
+          "y": 109,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "930a7db0-1c59-4ace-b723-29f61dd5b835",
+          "width": 100,
+          "x": 581,
+          "y": 159,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "7bf7edfd-b006-442f-a3c1-3d96f6cc3561",
+          "width": 60,
+          "x": 368,
+          "y": 84,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -52989,6 +53135,47 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "line.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
