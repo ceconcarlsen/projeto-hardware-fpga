@@ -48416,8 +48416,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 368,
-          "y": 78,
+          "x": 365,
+          "y": 86,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -48656,8 +48656,8 @@
           "name": "Dish",
           "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
           "width": 0,
-          "x": 619,
-          "y": 250,
+          "x": 294,
+          "y": 231,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -48866,8 +48866,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 252,
-          "y": 390,
+          "x": 625,
+          "y": 350,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -48926,8 +48926,8 @@
           "name": "Dish2",
           "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
           "width": 32,
-          "x": 510,
-          "y": 257,
+          "x": 402,
+          "y": 243,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -48941,8 +48941,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 647,
-          "y": 331,
+          "x": 403,
+          "y": 236,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -51193,90 +51193,8 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Player",
-                "Charge2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge2",
-                "Player",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
                 "Charge",
                 "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "2"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
                 "",
                 "",
                 ""
@@ -51307,36 +51225,6 @@
               "parameters": [
                 "Charge",
                 "Dish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
                 "",
                 "",
                 ""
@@ -51493,7 +51381,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Sala 1-3\"",
+                    "\"Sala 2-9\"",
                     ""
                   ]
                 }
@@ -51522,7 +51410,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Sala 1-1\"",
+                    "\"Sala 2-3\"",
                     ""
                   ]
                 }
@@ -51601,8 +51489,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 237,
-          "y": 92,
+          "x": 548,
+          "y": 422,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -51841,8 +51729,8 @@
           "name": "Dish",
           "persistentUuid": "ce1adff7-505c-43c4-a8ca-511235b2fe6b",
           "width": 0,
-          "x": 619,
-          "y": 250,
+          "x": 512,
+          "y": 239,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -51886,8 +51774,8 @@
           "name": "Wall1",
           "persistentUuid": "cbfd7168-572e-4791-b73e-ed5dc7d30ab2",
           "width": 165,
-          "x": 74,
-          "y": 166,
+          "x": 20,
+          "y": 167,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -52061,36 +51949,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "ed23812a-6b89-4569-b3cf-2421e64baa8e",
-          "width": 19,
-          "x": 383,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 68,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "534cc376-3a9a-4610-afdb-8f2897320e64",
-          "width": 19,
-          "x": 402,
-          "y": 183,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 93,
           "layer": "",
           "name": "Wall2",
@@ -52201,8 +52059,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 252,
-          "y": 390,
+          "x": 257,
+          "y": 349,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -52261,8 +52119,8 @@
           "name": "Dish2",
           "persistentUuid": "bbb52114-4b59-4378-8587-0d6789feeecc",
           "width": 32,
-          "x": 510,
-          "y": 257,
+          "x": 617,
+          "y": 253,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -52276,8 +52134,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 647,
-          "y": 331,
+          "x": 619,
+          "y": 244,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -54070,6 +53928,16 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
+                "Player",
+                "Charge2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
                 "Charge",
                 "Door",
                 ""
@@ -54558,90 +54426,8 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Player",
-                "Charge2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge2",
-                "Player",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
                 "Charge",
                 "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "2"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
                 "",
                 "",
                 ""
@@ -54672,36 +54458,6 @@
               "parameters": [
                 "Charge",
                 "Dish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
                 "",
                 "",
                 ""
@@ -54858,7 +54614,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Sala 1-3\"",
+                    "\"Sala 2-9\"",
                     ""
                   ]
                 }
@@ -54887,7 +54643,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Sala 1-1\"",
+                    "\"Sala 2-4\"",
                     ""
                   ]
                 }
