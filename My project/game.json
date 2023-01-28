@@ -1232,6 +1232,32 @@
         "name": "..\\..\\..\\..\\..\\Downloads\\line.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pizza Dish.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza Dish.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Food/Dishes/f50ec83e99ab4c02584802b1be8170dd683806cbcb3eb2d4beeca36c6f5f5a73_Pizza Dish.png",
+          "name": "Pizza Dish.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Lemonpie Dish.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lemonpie Dish.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Food/Dishes/85949e7153ee6cf52329a476525274e543c84663305bdb23c37714546c30d5c0_Lemonpie Dish.png",
+          "name": "Lemonpie Dish.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -31330,7 +31356,7 @@
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
           "x": 368,
-          "y": 78,
+          "y": 83,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -31779,8 +31805,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 301,
-          "y": 189,
+          "x": 298,
+          "y": 421,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -31839,8 +31865,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 176,
-          "y": 372,
+          "x": 98,
+          "y": 384,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -31974,8 +32000,8 @@
           "name": "Wall2",
           "persistentUuid": "f92826b0-f052-4122-af08-a09bc477a10e",
           "width": 19,
-          "x": 404,
-          "y": 389,
+          "x": 403,
+          "y": 347,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -31989,8 +32015,8 @@
           "name": "Wall2",
           "persistentUuid": "524b5b92-bc9b-4a90-82d5-23496d34b589",
           "width": 19,
-          "x": 385,
-          "y": 389,
+          "x": 384,
+          "y": 347,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -32004,8 +32030,8 @@
           "name": "Charge3",
           "persistentUuid": "5cb42d50-a62d-47e3-a5f1-b671b6b618ef",
           "width": 33,
-          "x": 607,
-          "y": 151,
+          "x": 560,
+          "y": 148,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -32019,9 +32045,99 @@
           "name": "Charge4",
           "persistentUuid": "dc909551-c01a-41f6-8a24-d81f457fbf7c",
           "width": 33,
-          "x": 675,
-          "y": 326,
+          "x": 717,
+          "y": 403,
           "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "149e587d-55a3-44dd-91fb-1f3d47c0a3cf",
+          "width": 19,
+          "x": 383,
+          "y": 254,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "e69ee0e1-6bdf-4367-b3a7-1ed3c711b7ee",
+          "width": 19,
+          "x": 402,
+          "y": 254,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "a9a1ada2-54ac-4598-8be3-dac3120ffdcd",
+          "width": 19,
+          "x": 383,
+          "y": 208,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 93,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "29315c35-1058-4c8d-b08c-853a49c872a4",
+          "width": 19,
+          "x": 402,
+          "y": 208,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "PizzaDish",
+          "persistentUuid": "eb11a1be-8e86-439a-9145-ef08319c3a47",
+          "width": 0,
+          "x": 517,
+          "y": 206,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "LemonpieDish",
+          "persistentUuid": "c7806f23-e944-4fa9-a8f1-e81ccf97132b",
+          "width": 0,
+          "x": 620,
+          "y": 206,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33984,6 +34100,99 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "aa8a22206c86ce466743171383c8e6ce8fb5b4d6c89b75765f318c0ede044562",
+          "name": "PizzaDish",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Pizza Dish.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "322d70f83184584196bc358c678154b9695e705975b42f70eb0dd2d642a65d72",
+          "name": "LemonpieDish",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Lemonpie Dish.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -34642,6 +34851,18 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge2",
+                "Dish2",
+                "",
+                "",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -34660,6 +34881,171 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge",
+                "Dish2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge2",
+                "Dish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door3",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge2",
+                "Dish2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge",
+                "Dish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door3",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge2",
+                "Dish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge",
+                "Dish2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door3",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge2",
+                "Dish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge2",
+                "Dish2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge",
+                "Dish",
+                "",
+                "",
+                ""
+              ]
+            },
             {
               "type": {
                 "inverted": true,
@@ -34710,6 +35096,352 @@
                 "Player",
                 "Door",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Animation"
+              },
+              "parameters": [
+                "Door3",
+                "!=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Door3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge3",
+                "LemonpieDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge4",
+                "PizzaDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge4",
+                "LemonpieDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge3",
+                "PizzaDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge3",
+                "PizzaDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge4",
+                "LemonpieDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge4",
+                "PizzaDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge3",
+                "LemonpieDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge3",
+                "PizzaDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge4",
+                "LemonpieDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge4",
+                "PizzaDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge3",
+                "LemonpieDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge4",
+                "PizzaDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge4",
+                "LemonpieDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge3",
+                "PizzaDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Charge3",
+                "LemonpieDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "1"
               ]
             }
           ]
@@ -34843,6 +35575,16 @@
                     "",
                     "",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Animation"
+                  },
+                  "parameters": [
+                    "Door3",
+                    "=",
+                    "2"
                   ]
                 }
               ],
@@ -35519,6 +36261,21 @@
           "x": 189,
           "y": 304,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 115,
+          "layer": "",
+          "name": "Juke_Box",
+          "persistentUuid": "ceec9559-ef64-46ba-8ed1-96388ccda82e",
+          "width": 118,
+          "x": 19,
+          "y": 24,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -37952,7 +38709,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Sala 1-3\"",
+                    "\"Sala 2-7\"",
                     ""
                   ]
                 }
@@ -37981,7 +38738,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Sala 1-1\"",
+                    "\"Sala 2-1\"",
                     ""
                   ]
                 }
