@@ -18270,7 +18270,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8387409356266261,
+        "zoomFactor": 0.26039924580343765,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -21404,7 +21404,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7387409356266265,
+        "zoomFactor": 0.7074207435423884,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -24854,16 +24854,6 @@
                     "",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "Animation"
-                  },
-                  "parameters": [
-                    "Door",
-                    "=",
-                    "2"
-                  ]
                 }
               ],
               "actions": [
@@ -24873,7 +24863,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Sala 1-3\"",
+                    "\"Sala 1-6\"",
                     ""
                   ]
                 }
@@ -24902,7 +24892,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Sala 1-1\"",
+                    "\"Sala 1-8\"",
                     ""
                   ]
                 }
