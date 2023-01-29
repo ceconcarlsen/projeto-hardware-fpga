@@ -4675,7 +4675,7 @@
           "width": 32,
           "x": 677,
           "y": 403,
-          "zOrder": 4,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4810,7 +4810,7 @@
           "width": 140,
           "x": 24,
           "y": 420,
-          "zOrder": 9,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7910,7 +7910,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8387409356266243,
+        "zoomFactor": 0.7365202900938908,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7924,24 +7924,9 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 549,
-          "y": 85,
+          "x": 546,
+          "y": 87,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "BookBlue",
-          "persistentUuid": "abab1297-57c9-4cfe-a636-cae41f0059f4",
-          "width": 0,
-          "x": 36,
-          "y": 251,
-          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8362,51 +8347,6 @@
           "x": 613,
           "y": 523,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 111,
-          "layer": "",
-          "name": "BlankPlayingCard",
-          "persistentUuid": "a8eaf9b3-472e-48b3-aef4-63317f3dd330",
-          "width": 756,
-          "x": 19,
-          "y": 406,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "NewText",
-          "persistentUuid": "2ecd7caf-2def-495d-b7af-54aa0d51a618",
-          "width": 0,
-          "x": 58,
-          "y": 431,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "OpenBook",
-          "persistentUuid": "601e516b-5c72-4646-8bb7-2d41da533a40",
-          "width": 0,
-          "x": 34,
-          "y": 250,
-          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9052,146 +8992,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "assets\\esfera_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "e8a1c4fa36b827b60c47b91107c68339cbcf80057e9b07eea62561e074fe8a01",
-          "name": "BookBlue",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Book Blue_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Book Blue_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "987851ce14af2514a727868eaffe2f0de6512b6da10c865658569e9e9664d3c9",
-          "name": "OpenBook",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open Book_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open Book_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9929,69 +9729,6 @@
           ]
         },
         {
-          "assetStoreId": "1857a255bd4cfd4ea5d0a22397b3f3264ac59d7a6b02757c6f4863219268ce98",
-          "name": "BlankPlayingCard",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Blank Playing Card.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "NewText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "VERDADE E VERDADE",
-          "font": "",
-          "textAlignment": "",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        },
-        {
           "assetStoreId": "",
           "name": "Table_Cushions",
           "tags": "",
@@ -10389,16 +10126,6 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
-                "Charge",
-                "OpenBook",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
                 "Player",
                 "Wall1",
                 ""
@@ -10442,46 +10169,6 @@
                 "Player",
                 "Tree",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "OpenBook",
-                "=",
-                "-1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "BookBlue",
-                "=",
-                "3"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "BlankPlayingCard",
-                "=",
-                "-1\n"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "NewText",
-                "=",
-                "-1"
               ]
             }
           ]
@@ -10873,48 +10560,7 @@
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "BookBlue",
-                "=",
-                "-1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "OpenBook",
-                "=",
-                "3\n"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "BlankPlayingCard",
-                "=",
-                "4\n"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "NewText",
-                "=",
-                "5"
-              ]
-            }
-          ]
+          "actions": []
         },
         {
           "colorB": 228,
@@ -11056,8 +10702,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 368,
-          "y": 78,
+          "x": 364,
+          "y": 84,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -11538,7 +11184,7 @@
           "width": 32,
           "x": 262,
           "y": 281,
-          "zOrder": 4,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11598,7 +11244,7 @@
           "width": 31,
           "x": 658,
           "y": 377,
-          "zOrder": 5,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11703,7 +11349,7 @@
           "width": 140,
           "x": 426,
           "y": 429,
-          "zOrder": 9,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11778,7 +11424,7 @@
           "width": 33,
           "x": 348,
           "y": 449,
-          "zOrder": 4,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11793,7 +11439,7 @@
           "width": 33,
           "x": 349,
           "y": 423,
-          "zOrder": 3,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14675,8 +14321,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 22,
-          "y": 273,
+          "x": 30,
+          "y": 282,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -18406,7 +18052,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.26039924580343765,
+        "zoomFactor": 0.6467576753180838,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -18420,24 +18066,9 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 549,
-          "y": 438,
+          "x": 548,
+          "y": 446,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "BookBlue",
-          "persistentUuid": "abab1297-57c9-4cfe-a636-cae41f0059f4",
-          "width": 0,
-          "x": 190,
-          "y": 218,
-          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18918,51 +18549,6 @@
           "x": 561,
           "y": 161,
           "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 111,
-          "layer": "",
-          "name": "BlankPlayingCard",
-          "persistentUuid": "a8eaf9b3-472e-48b3-aef4-63317f3dd330",
-          "width": 756,
-          "x": 19,
-          "y": 406,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "NewText",
-          "persistentUuid": "2ecd7caf-2def-495d-b7af-54aa0d51a618",
-          "width": 0,
-          "x": 58,
-          "y": 431,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "OpenBook",
-          "persistentUuid": "601e516b-5c72-4646-8bb7-2d41da533a40",
-          "width": 0,
-          "x": 191,
-          "y": 218,
-          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -19623,146 +19209,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "assets\\esfera_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "e8a1c4fa36b827b60c47b91107c68339cbcf80057e9b07eea62561e074fe8a01",
-          "name": "BookBlue",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Book Blue_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Book Blue_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "987851ce14af2514a727868eaffe2f0de6512b6da10c865658569e9e9664d3c9",
-          "name": "OpenBook",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open Book_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open Book_Shadow.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20459,69 +19905,6 @@
           ]
         },
         {
-          "assetStoreId": "1857a255bd4cfd4ea5d0a22397b3f3264ac59d7a6b02757c6f4863219268ce98",
-          "name": "BlankPlayingCard",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Blank Playing Card.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "NewText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "VERDADE E VERDADE",
-          "font": "",
-          "textAlignment": "",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        },
-        {
           "assetStoreId": "",
           "name": "Desk",
           "tags": "",
@@ -20909,16 +20292,6 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
-                "Charge",
-                "BookBlue",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
                 "Player",
                 "Wall1",
                 ""
@@ -20952,46 +20325,6 @@
                 "Player",
                 "Tree",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "OpenBook",
-                "=",
-                "-1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "BookBlue",
-                "=",
-                "3"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "BlankPlayingCard",
-                "=",
-                "-1\n"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "NewText",
-                "=",
-                "-1"
               ]
             }
           ]
@@ -21371,48 +20704,7 @@
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "BookBlue",
-                "=",
-                "-1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "OpenBook",
-                "=",
-                "3\n"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "BlankPlayingCard",
-                "=",
-                "4\n"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "NewText",
-                "=",
-                "5"
-              ]
-            }
-          ]
+          "actions": []
         },
         {
           "colorB": 228,
@@ -21554,8 +20846,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 383,
-          "y": 113,
+          "x": 369,
+          "y": 457,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -21569,8 +20861,8 @@
           "name": "BookBlue",
           "persistentUuid": "abab1297-57c9-4cfe-a636-cae41f0059f4",
           "width": 0,
-          "x": 30,
-          "y": 256,
+          "x": 36,
+          "y": 272,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -22051,7 +21343,7 @@
           "width": 32,
           "x": 333,
           "y": 401,
-          "zOrder": 4,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22064,8 +21356,8 @@
           "name": "Seat",
           "persistentUuid": "58cfb09c-c0ac-4d9f-acdb-75ac54316edd",
           "width": 54,
-          "x": 19,
-          "y": 250,
+          "x": 24,
+          "y": 258,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -22109,9 +21401,9 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 445,
+          "x": 438,
           "y": 397,
-          "zOrder": 5,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22126,21 +21418,6 @@
           "width": 756,
           "x": 19,
           "y": 406,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "OpenBook",
-          "persistentUuid": "ce34fa29-4479-40f4-804d-d342cf8e51df",
-          "width": 0,
-          "x": 44,
-          "y": 258,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -22169,8 +21446,8 @@
           "name": "OpenBook",
           "persistentUuid": "601e516b-5c72-4646-8bb7-2d41da533a40",
           "width": 0,
-          "x": 31,
-          "y": 255,
+          "x": 34,
+          "y": 274,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -25310,7 +24587,7 @@
           "persistentUuid": "abab1297-57c9-4cfe-a636-cae41f0059f4",
           "width": 0,
           "x": 596,
-          "y": 175,
+          "y": 179,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -25730,7 +25007,7 @@
           "persistentUuid": "601e516b-5c72-4646-8bb7-2d41da533a40",
           "width": 0,
           "x": 597,
-          "y": 176,
+          "y": 182,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -25791,7 +25068,7 @@
           "width": 172,
           "x": 527,
           "y": 137,
-          "zOrder": 3,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -27329,7 +26606,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "VERDADE E VERDADE",
+          "string": "Final do módulo 01. Siga para o módulo 02!!!",
           "font": "",
           "textAlignment": "",
           "characterSize": 20,
