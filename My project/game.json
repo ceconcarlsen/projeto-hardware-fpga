@@ -901,7 +901,7 @@
         "alwaysLoaded": false,
         "file": "circuito_sala_02.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"circuito_sala_02.png\",\"extension\":\".png\"}",
         "name": "circuito_sala_02.png",
         "smoothed": true,
         "userAdded": true
@@ -1258,6 +1258,50 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Food/Dishes/85949e7153ee6cf52329a476525274e543c84663305bdb23c37714546c30d5c0_Lemonpie Dish.png",
           "name": "Lemonpie Dish.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "energyPoint.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "energyPoint.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "energyPoint2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "energyPoint2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bacon Dish.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bacon Dish.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Food/Dishes/6b22be0445da9cca7ed5b7ca956c3957bab2e1e74a0706bb5a6223b7d076226a_Bacon Dish.png",
+          "name": "Bacon Dish.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Burger Dish.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Burger Dish.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Food/Dishes/45799347d40ff036a744fdbd6ae82cb9730dee722e5a5aff18c559b499145053_Burger Dish.png",
+          "name": "Burger Dish.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1270,6 +1314,18 @@
       "name": "Position",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "SelectionVariable01",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "SelectionVariable02",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -27693,7 +27749,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7389623303497053,
+        "zoomFactor": 0.7716789877856558,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -27707,8 +27763,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 368,
-          "y": 78,
+          "x": 357,
+          "y": 422,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -28065,36 +28121,6 @@
           "height": 93,
           "layer": "",
           "name": "Wall2",
-          "persistentUuid": "0d4cc799-0b5f-43bc-8f38-994b91868f76",
-          "width": 19,
-          "x": 268,
-          "y": 243,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "eba7f6e8-c1ac-4c5e-9880-4e50ed90b7dc",
-          "width": 19,
-          "x": 287,
-          "y": 243,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
           "persistentUuid": "a463a6cb-d53b-4bc8-8420-856c6f54a869",
           "width": 19,
           "x": 268,
@@ -28159,7 +28185,7 @@
           "width": 992,
           "x": -96,
           "y": 0,
-          "zOrder": 0,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -28302,36 +28328,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "92607501-ec6f-4a4e-9db0-3c6a151b41b2",
-          "width": 19,
-          "x": 533,
-          "y": 239,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 93,
-          "layer": "",
-          "name": "Wall2",
-          "persistentUuid": "bd05ebce-4269-4aab-9377-418fd1bcbaa5",
-          "width": 19,
-          "x": 514,
-          "y": 239,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 76,
           "layer": "",
           "name": "Door4",
@@ -28340,6 +28336,366 @@
           "x": 355,
           "y": 524,
           "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "point",
+          "persistentUuid": "c313d014-9e67-4ad4-bcaa-7723156e7f80",
+          "width": 40,
+          "x": 471,
+          "y": 164,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "Point2",
+          "persistentUuid": "3dc8c6a3-de90-4bb8-9759-a253373ca3ce",
+          "width": 40,
+          "x": 330,
+          "y": 160,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "661d2eed-6715-4028-9111-f70100a2b514",
+          "width": 246,
+          "x": 225,
+          "y": 339,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "9e5efe06-3f66-4d16-be24-cb87781b5ab1",
+          "width": 249,
+          "x": 364,
+          "y": 343,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "2c697b1d-fbe9-4fb9-b56c-e96cb2f13170",
+          "width": 95,
+          "x": 396,
+          "y": 465,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "70ae4d01-39dd-4a10-8236-22a9a358380b",
+          "width": 63,
+          "x": 367,
+          "y": 495,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "d4774f4e-c7ec-4bc3-8837-886fd7d6fc04",
+          "width": 34,
+          "x": 346,
+          "y": 463,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "c7f3b178-d6f7-4667-9cc6-02f790a22de0",
+          "width": 63,
+          "x": 347,
+          "y": 493,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "3b64cb2b-b910-4b8c-b468-64eccab3d949",
+          "width": 221,
+          "x": 125,
+          "y": 217,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "828d4641-aba3-4d41-89e6-7329ebe96dfe",
+          "width": 10,
+          "x": 343,
+          "y": 197,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "5b8d9aca-bb3a-4c4a-a9f1-2b6c5b5a5d71",
+          "width": 10,
+          "x": 484,
+          "y": 223,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "351993b3-acfd-4902-b7c3-49a145b2a67e",
+          "width": 10,
+          "x": 344,
+          "y": 257,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "15607221-bb9c-4c2f-8c1e-fbd734ea28db",
+          "width": 10,
+          "x": 484,
+          "y": 278,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "fb9d7c55-b06f-4ee1-a0a1-3612d92730cf",
+          "width": 299,
+          "x": -22,
+          "y": 366,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "62763fd6-5a2c-40a5-8fb5-095749c9e944",
+          "width": 337,
+          "x": 153,
+          "y": 243,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "f3400178-f9bc-4eb8-809c-4fbf70641cca",
+          "width": 299,
+          "x": 4,
+          "y": 390,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "d4ed8e7e-1d5c-4243-9c63-911fae88a097",
+          "width": 249,
+          "x": 345,
+          "y": 276,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "4e2b9744-34ac-491a-ae58-5b0f1d7925b5",
+          "width": 129,
+          "x": 487,
+          "y": 300,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "6cdf789f-7be2-4cbd-be5c-a7cc8e7ccd46",
+          "width": 248,
+          "x": 490,
+          "y": 422,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "92f90169-d94f-4f81-89d1-a127be245d2b",
+          "width": 273,
+          "x": 455,
+          "y": 410,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 28,
+          "layer": "",
+          "name": "ball",
+          "persistentUuid": "9a27f285-8e27-4b34-aa30-858a9a15921f",
+          "width": 28,
+          "x": 341,
+          "y": 171,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 28,
+          "layer": "",
+          "name": "ball2",
+          "persistentUuid": "24c4e95c-6832-44c0-99c3-8930fab193e1",
+          "width": 28,
+          "x": 508,
+          "y": 218,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 25,
+          "layer": "",
+          "name": "BaconDish",
+          "persistentUuid": "1db97ec0-9696-4cd9-b624-1a193c80949f",
+          "width": 25,
+          "x": 335,
+          "y": 178,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 25,
+          "layer": "",
+          "name": "BurgerDish",
+          "persistentUuid": "769faaf4-a70d-4962-862b-c497d0ff4a18",
+          "width": 27,
+          "x": 474,
+          "y": 179,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -30042,6 +30398,379 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "Points",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "circuito_sala_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "point",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "energyPoint.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "Point2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "energyPoint2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "line.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "ball",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\esfera_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "ball2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\esfera_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite5",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "51b995998158a92f4efd71cae17f06890ceddc1caa3af9ef18de1f7961088ec8",
+          "name": "BurgerDish",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Burger Dish.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "2d13d86a268faec306e0144bddbc9aaaa2ea6eb3ac70ffcd74b8abadf8663262",
+          "name": "BaconDish",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Bacon Dish.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -30572,6 +31301,260 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ball",
+                "BurgerDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ball2",
+                "BurgerDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable02",
+                "False"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ball",
+                "BurgerDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable02",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ball2",
+                "BurgerDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable02",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ball",
+                "BaconDish",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ball2",
+                "BaconDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable01",
+                "False"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ball",
+                "BaconDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable01",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "ball2",
+                "BaconDish",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable01",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "ball",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "ball",
+                "Player",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "ball2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "ball2",
+                "Player",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -30625,7 +31608,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 0.8497683247628394,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -30639,8 +31622,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 368,
-          "y": 83,
+          "x": 366,
+          "y": 86,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -31089,8 +32072,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 298,
-          "y": 421,
+          "x": 125,
+          "y": 221,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -31149,8 +32132,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 98,
-          "y": 384,
+          "x": 231,
+          "y": 222,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -31314,8 +32297,8 @@
           "name": "Charge3",
           "persistentUuid": "5cb42d50-a62d-47e3-a5f1-b671b6b618ef",
           "width": 33,
-          "x": 560,
-          "y": 148,
+          "x": 515,
+          "y": 209,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -31329,8 +32312,8 @@
           "name": "Charge4",
           "persistentUuid": "dc909551-c01a-41f6-8a24-d81f457fbf7c",
           "width": 33,
-          "x": 717,
-          "y": 403,
+          "x": 618,
+          "y": 205,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -31422,6 +32405,186 @@
           "x": 620,
           "y": 206,
           "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "41ed6cbb-de23-490d-82d7-0b4ad2f395ee",
+          "width": 243,
+          "x": 140,
+          "y": 92,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "7dfce31f-b306-464e-a7f7-3422c0a04c66",
+          "width": 123,
+          "x": 322,
+          "y": 104,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "bf3145f7-a694-4c74-9de6-1127368a5596",
+          "width": 152,
+          "x": 382,
+          "y": 163,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "cda0d4d7-d563-4ecd-91bc-73490d02b6bd",
+          "width": 29,
+          "x": 519,
+          "y": 175,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "03ebdfd0-8f42-447c-ba74-eaa8ecfe1500",
+          "width": 51,
+          "x": 611,
+          "y": 163,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "c81b36a0-1575-4cf9-824c-12b115e07efb",
+          "width": 87,
+          "x": 370,
+          "y": 98,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "890a48be-e14f-4620-97bf-203708c72080",
+          "width": 225,
+          "x": 413,
+          "y": 140,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "6b8ae012-ff4f-4287-9940-526448019560",
+          "width": 171,
+          "x": 243,
+          "y": 112,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "8c9fe54f-3ba0-4ed9-b266-844e37ab104c",
+          "width": 107,
+          "x": 89,
+          "y": 147,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "f5bfcb6a-d776-468f-bb64-5600fde32bd3",
+          "width": 92,
+          "x": 200,
+          "y": 156,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "0cb40ceb-68a5-44c7-801b-eef9352b74b8",
+          "width": 10,
+          "x": 409,
+          "y": 92,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 70,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "acb0f04f-55d6-425a-9b3d-3f49853f34ad",
+          "width": 10,
+          "x": 379,
+          "y": 72,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33477,6 +34640,47 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Line",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "line.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -34043,26 +35247,20 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "True"
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "True"
               ]
             }
           ],
@@ -34084,72 +35282,33 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "True"
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "False"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door3",
-                "=",
-                "2"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "Delete"
               },
               "parameters": [
                 "Charge",
-                "Dish",
-                "",
-                "",
                 ""
               ]
             },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
             {
               "type": {
                 "value": "ChangeAnimation"
@@ -34167,31 +35326,33 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "False"
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "True"
               ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Charge2",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "ChangeAnimation"
@@ -34209,27 +35370,20 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "False"
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "False"
               ]
             }
           ],
@@ -34243,116 +35397,23 @@
                 "=",
                 "1"
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "Delete"
               },
               "parameters": [
                 "Charge",
-                "Dish2",
-                "",
-                "",
                 ""
               ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door3",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "Delete"
               },
               "parameters": [
                 "Charge2",
-                "Dish",
-                "",
-                "",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door3",
-                "=",
-                "1"
               ]
             }
           ]
@@ -34416,27 +35477,117 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge3",
-                "LemonpieDish",
-                "",
-                "",
+                "SelectionVariable01",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable02",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Charge4",
                 ""
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable01",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable02",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
               },
               "parameters": [
                 "Charge4",
-                "PizzaDish",
-                "",
-                "",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Charge3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable01",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable02",
+                "True"
               ]
             }
           ],
@@ -34458,73 +35609,33 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge4",
-                "LemonpieDish",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "False"
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge3",
-                "PizzaDish",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "True"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "Delete"
               },
               "parameters": [
                 "Charge3",
-                "PizzaDish",
-                "",
-                "",
                 ""
               ]
             },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge4",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
             {
               "type": {
                 "value": "ChangeAnimation"
@@ -34533,199 +35644,6 @@
                 "Door",
                 "=",
                 "2"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge4",
-                "PizzaDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge3",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "2"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge3",
-                "PizzaDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge4",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge4",
-                "PizzaDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge3",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge4",
-                "PizzaDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge4",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge3",
-                "PizzaDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge3",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
               ]
             }
           ]
@@ -34973,7 +35891,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 0.8873907826870975,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -34987,8 +35905,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 321,
-          "y": 435,
+          "x": 364,
+          "y": 90,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -35012,13 +35930,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 76,
+          "height": 80,
           "layer": "",
           "name": "Door",
           "persistentUuid": "290d4b46-f24e-4041-90c1-f6fb59bdc3cd",
-          "width": 60,
-          "x": 331,
-          "y": 523,
+          "width": 64,
+          "x": 327,
+          "y": 519,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -35392,8 +36310,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 189,
-          "y": 363,
+          "x": 297,
+          "y": 216,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -35467,8 +36385,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 589,
-          "y": 393,
+          "x": 395,
+          "y": 217,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -35590,6 +36508,66 @@
           "x": 294,
           "y": 211,
           "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "8979d108-de09-4a40-bbdc-7051dad59c17",
+          "width": 142,
+          "x": 340,
+          "y": 124,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "46e8121b-fa7a-4b0c-ad80-3a52b4379b11",
+          "width": 88,
+          "x": 267,
+          "y": 154,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "17173202-7983-4cfd-a629-e7e729770140",
+          "width": 68,
+          "x": 350,
+          "y": 82,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "a2934e68-61c6-45eb-8a8c-80059c0c52a5",
+          "width": 78,
+          "x": 308,
+          "y": 113,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -37265,6 +38243,47 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Line",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "line.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -37309,6 +38328,26 @@
               "parameters": [
                 "Player",
                 "Wall4",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Charge",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Charge2",
                 ""
               ]
             },
@@ -37773,88 +38812,86 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Player",
-                "Charge",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable02",
+                "False"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "SeparateFromObjects"
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Door",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
               },
               "parameters": [
                 "Charge",
-                "Player",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Charge2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge2",
-                "Player",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "LemonpieDish",
-                "",
-                "",
                 ""
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "Delete"
               },
               "parameters": [
                 "Charge2",
-                "PizzaDish",
-                "",
-                "",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable01",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "SelectionVariable02",
+                "True"
               ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Charge",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "ChangeAnimation"
@@ -37872,72 +38909,33 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "LemonpieDish",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "True"
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "PizzaDish",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "False"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "Delete"
               },
               "parameters": [
                 "Charge2",
-                "PizzaDish",
-                "",
-                "",
                 ""
               ]
             },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
             {
               "type": {
                 "value": "ChangeAnimation"
@@ -37955,180 +38953,20 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "PizzaDish",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "True"
               ]
             },
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "2"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "PizzaDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "PizzaDish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "PizzaDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "LemonpieDish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "PizzaDish",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "True"
               ]
             }
           ],
@@ -38376,7 +39214,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 1.0105505379119113,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -38390,8 +39228,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 276,
-          "y": 404,
+          "x": 364,
+          "y": 85,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -38795,8 +39633,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 339,
-          "y": 222,
+          "x": 244,
+          "y": 220,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -38855,8 +39693,8 @@
           "name": "Charge2",
           "persistentUuid": "78ad7738-1529-4be9-84b4-8605c114d622",
           "width": 31,
-          "x": 243,
-          "y": 219,
+          "x": 342,
+          "y": 221,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -38963,6 +39801,96 @@
           "x": 551,
           "y": 32,
           "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "3db9cf50-c6f3-4d03-b0b5-fd6c22a23710",
+          "width": 46,
+          "x": 335,
+          "y": 180,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "8786b9f2-ab89-42c4-a888-8c91645610a9",
+          "width": 102,
+          "x": 363,
+          "y": 109,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "76e90075-435d-4606-beeb-f203649c9554",
+          "width": 61,
+          "x": 356,
+          "y": 157,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "0ad49ebc-19c5-4546-b4f7-eafd5d794d01",
+          "width": 101,
+          "x": 212,
+          "y": 150,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "a469db85-50a1-4958-ba45-c9df80d43ff2",
+          "width": 123,
+          "x": 261,
+          "y": 102,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "Line",
+          "persistentUuid": "aa1c2565-fdf5-472d-84c4-e72d537d85b5",
+          "width": 46,
+          "x": 360,
+          "y": 82,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -40597,6 +41525,47 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Line",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "line.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -40641,6 +41610,26 @@
               "parameters": [
                 "Player",
                 "Wall4",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Charge",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "Charge2",
                 ""
               ]
             },
@@ -41105,112 +42094,20 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Player",
-                "Charge",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge",
-                "Player",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Charge2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Charge2",
-                "Player",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "False"
               ]
             },
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "False"
               ]
             }
           ],
@@ -41224,6 +42121,24 @@
                 "=",
                 "2"
               ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Charge",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Charge2",
+                ""
+              ]
             }
           ]
         },
@@ -41232,31 +42147,33 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "False"
               ]
             },
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "True"
               ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Charge",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "ChangeAnimation"
@@ -41274,31 +42191,33 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "True"
               ]
             },
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "False"
               ]
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Charge2",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "ChangeAnimation"
@@ -41316,151 +42235,20 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable01",
+                "True"
               ]
             },
             {
               "type": {
-                "inverted": true,
-                "value": "CollisionNP"
+                "value": "GlobalVariableAsBoolean"
               },
               "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Door",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge2",
-                "Dish2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Charge",
-                "Dish",
-                "",
-                "",
-                ""
+                "SelectionVariable02",
+                "True"
               ]
             }
           ],
@@ -41722,8 +42510,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 504,
-          "y": 108,
+          "x": 362,
+          "y": 86,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -51051,8 +51839,8 @@
           "name": "Player",
           "persistentUuid": "21fbb8ed-4142-4f5d-8c09-6d2111e39c40",
           "width": 64,
-          "x": 367,
-          "y": 85,
+          "x": 550,
+          "y": 428,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -51621,8 +52409,8 @@
           "name": "Charge",
           "persistentUuid": "2a520258-df2e-4a54-a719-f05ed2e1b5b4",
           "width": 32,
-          "x": 514,
-          "y": 245,
+          "x": 447,
+          "y": 175,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -54280,7 +55068,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8137409356266264,
+        "zoomFactor": 0.7145671380892258,
         "windowMask": false
       },
       "objectsGroups": [],
